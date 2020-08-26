@@ -21,3 +21,4 @@ level-name=world
      die datei zuede gelöcht wurde ziehe nochmal die heruntergeladende map rein. nachdem der server gestartet ist sollte die map geresettet sein.
 
 noch anzumerken ist das man das spiel aktuell nur zu 4t spielen kann
+und das die aktuelle version die 1.16.1 ist
