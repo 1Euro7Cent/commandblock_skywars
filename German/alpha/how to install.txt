@@ -20,5 +20,5 @@ level-name=world
 5.   wenn eine runde zuende ist drückt in dem webinterface auf neustarten. wen ihr von dem server gekickt werdet löscht die world datei und wenn
      die datei zuede gelöcht wurde ziehe nochmal die heruntergeladende map rein. nachdem der server gestartet ist sollte die map geresettet sein.
 
-noch anzumerken ist das man das spiel aktuell nur zu 4t spielen kann
+noch anzumerken ist das man das spiel aktuell bis zu 8 spielern spielen kann
 und das die aktuelle version die 1.16.1 ist
