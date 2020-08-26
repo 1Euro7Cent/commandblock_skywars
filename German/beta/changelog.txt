@@ -1,8 +1,8 @@
++ = hinzugefügt/gefixt/verbessert
+- = entfernt/neuer bug/verschlechtert
+
 UTC +1 MEZ 26.08.2020 13:24
 
-
-+ = hinzugefügt/gefixt
-- = entfernt/neuer bug
 
 + kompatiblität bis zu 8 spieler
 + wierde kisten entfernt und durch "normale" ersetzt
@@ -12,5 +12,11 @@ UTC +1 MEZ 26.08.2020 13:24
 Weitere bekannte bugs:
 
 leere kisten
+
+
+
+UTC +1 MEZ 26.08.2020 20:19
+
++ kisten auffüllzeit halbiert
 
 
