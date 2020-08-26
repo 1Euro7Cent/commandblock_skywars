@@ -1,0 +1,23 @@
+Nitrado server:
+
+1.  geht in den server und geht in den minecraftbukkit ordner es empfielt sich da ein backup zu machen und löscht da ALLES.
+
+2.  nun kopiert alle datein in den ordner und startet den server.
+
+3.  WICHTIG prüft ob die server.properties richtig eingestellt sind:
+
+enable-command-block=true
+pvp=true
+gamemode=survival
+allow-nether=false
+hellworld=false
+level-name=world
+
+4.  wenn ihr änderungen forgenommen habt startet den server neu
+
+
+
+5.   wenn eine runde zuende ist drückt in dem webinterface auf neustarten. wen ihr von dem server gekickt werdet löscht die world datei und wenn
+     die datei zuede gelöcht wurde ziehe nochmal die heruntergeladende map rein. nachdem der server gestartet ist sollte die map geresettet sein.
+
+noch anzumerken ist das man das spiel aktuell nur zu 4t spielen kann
