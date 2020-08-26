@@ -374,7 +374,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-08-24 13:16:11 +0200",
-      "mutton": "2020-08-25 20:36:18 +0200"
+      "honey_bottle": "2020-08-26 12:47:27 +0200",
+      "mutton": "2020-08-25 20:36:18 +0200",
+      "cookie": "2020-08-26 12:47:35 +0200"
     },
     "done": false
   },
@@ -1080,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2020-08-26 12:47:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-08-22 18:19:42 +0200"
@@ -1221,6 +1229,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-08-24 13:26:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-08-26 12:57:10 +0200"
     },
     "done": true
   },
@@ -1698,6 +1712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-08-26 12:11:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-08-24 13:20:32 +0200"
@@ -1719,6 +1739,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2020-08-24 13:22:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2020-08-26 12:47:24 +0200"
     },
     "done": true
   },
