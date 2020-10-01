@@ -1,0 +1,34 @@
+Messages:
+  Prefix: '§7[§c§3AntiCooldown§7] '
+  Switch:
+    WorldEnabled: §ePvP Cooldown is §a§ldisabled §ein this world!
+    WorldDisabled: §ePvP Cooldown is §c§lnot disabled §ein this world!
+  Login:
+    Enabled: §aHey, welcome to the server! §ePvP Cooldown is §a§ldisabled §ein this
+      world!
+    Disabled: §aHey, welcome to the server! §ePvP Cooldown is §c§lnot disabled §ein
+      this world!
+  Setting:
+    AddDisabledWorld: §aOK! In the world §e%world% §athe cooldown is now activated.
+    RemoveDisabledWorld: §aOK! In the world §e%world% §athe cooldown is now deactivated.
+  Error:
+    WorldAlreadyDisabled: §cThis world is already §c§ldeactivated§c!
+    WorldAlreadyEnabled: §cThis world is already §a§lactivated§c!
+    PlayerNotOnline: §cThe player is not online!
+    NoPerms: §cNo permissions!
+ConfigVersion: 5
+Settings:
+  Messages:
+    UseLoginMessage: true
+    UseSwitchWorldMessage: true
+  Values:
+    AttackSpeed: 100
+  Updates:
+    UseUpdateChecker: true
+    ConsoleNotify: true
+    IngameNotify: true
+  Downgrade:
+    UseOldDamageValues: false
+    UseOldOpApple: false
+  DisabledWorlds:
+  - YourWorldName

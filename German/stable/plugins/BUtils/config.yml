@@ -1,0 +1,106 @@
+settings:
+  dmgalert: ENABLED
+  dmgremover: DISABLED
+  timer: ENABLED
+  backpack: DISABLED
+  scoreboard: ENABLED
+dmgalert:
+  reason: ENABLED
+  you: ENABLED
+dmgremover:
+  globalremove: ENABLED
+  you: ENABLED
+timer:
+  reverse: DISABLED
+  resume: DISABLED
+  starttime: 0
+  currenttime: 6259
+scoreboard:
+  hearts: ENABLED
+  tablist: ENABLED
+  belowname: ENABLED
+gamerule:
+  soup: ENABLED
+  naturalregeneration: ENABLED
+  pvp: ENABLED
+  globalhealth: DISABLED
+  globalhealth_reg: DISABLED
+  bpm: DISABLED
+  currentHP: 20.0
+challenge:
+  wither: DISABLED
+  enderdragon: ENABLED
+  falldamage: DISABLED
+  death: DISABLED
+  jump_damage: DISABLED
+  sneak_damage: DISABLED
+  jump_death: DISABLED
+  sneak_death: DISABLED
+  collect: DISABLED
+  randomitem: DISABLED
+  unknown: DISABLED
+  randomizer: DISABLED
+  randomizer_ultra: DISABLED
+  randomizer_extreme: DISABLED
+  noblockplace: DISABLED
+  move_damage: DISABLED
+  move_death: DISABLED
+  teleport: DISABLED
+  lava: DISABLED
+  water: DISABLED
+  border: DISABLED
+  halloween: DISABLED
+  mlg: ENABLED
+  invisible: DISABLED
+  collectAsTeam: false
+  collectCount: 100
+  collectFlipped: false
+  isUnlimited: false
+  thefloorisair: DISABLED
+  jackhammer: DISABLED
+  hunter: DISABLED
+  force_block: DISABLED
+level:
+  backpack: THREE
+  playerhealth: TEN
+  damagemultiplier: ONE
+  special: NONE
+  difficulty: TWO
+  slot: THIRTY
+reset:
+  seed: 0
+  resetWithSeed: false
+  isReset: false
+players:
+  hidden: []
+server:
+  ping: false
+backpack:
+  data:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

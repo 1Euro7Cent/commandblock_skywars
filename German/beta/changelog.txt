@@ -20,3 +20,8 @@ UTC +1 MEZ 26.08.2020 20:19
 + kisten auffüllzeit halbiert
 
 
+UTC +1 MEZ 01.10.2020 12:00
+
++ kisten aufüllzeit auf c.a 10 sekunden geschrumpft
+
+

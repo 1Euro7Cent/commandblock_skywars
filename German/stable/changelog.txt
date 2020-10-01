@@ -1,0 +1,12 @@
++ = hinzugefügt/gefixt/verbessert
+- = entfernt/neuer bug/verschlechtert
+
+UTC +1 MEZ 01.10.2020 13:57
+
++ keine leere kisten mehr
++ extra funktionen: eine lebende spieler anzahl
+
+
+
+
+
